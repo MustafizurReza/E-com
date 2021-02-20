@@ -1,0 +1,19 @@
+.panda-card{
+    border: 0;
+}
+.panda-ads img{
+    height: 100px;
+    width: 100px;
+}
+.panda-ads{
+    border-radius: 5px;
+}
+.panda-car{
+    background-color: #feeae9;
+}
+.panda-car button{
+    background-color: rgba(235, 8, 197, 0.884);
+}
+.panda-card a{
+    background-color: rgba(235, 8, 197, 0.884);
+}
